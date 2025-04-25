@@ -7,7 +7,7 @@
 
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
+Eu sou uma pessoa... e estudante do Senac...
 
 
 ## 🛠 Habilidades
