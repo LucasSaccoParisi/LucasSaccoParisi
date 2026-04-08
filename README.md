@@ -7,6 +7,7 @@
 - Brasileiro - Paulista
 - Estudante da Faculdade Senac - Unidade Nações Unidas
 - Curso: BCC Ciências da Computação
+- Usuário de Linux - Distro de preferência: Fedora
 
 
 ## 🛠️ Languages & Tools
