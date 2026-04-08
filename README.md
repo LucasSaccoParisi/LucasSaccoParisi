@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
+## 📌 Sobre Eu
 - Nascimento: 15 de Março, 2006
 - Brasileiro - Paulista
 - Estudante da Faculdade Senac - Unidade Nações Unidas
@@ -10,15 +10,18 @@
 - Usuário de Linux - Distro de preferência: Fedora
 
 
-## 🛠️ Languages & Tools
+## 🛠️ Línguas e Ferramentas
 
 > ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /> <img src="https://logodix.com/logo/1137946.png" alt="C" width="48" height="48" style="margin: 4px;" /></p>
 
 > ## Frontend
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /></p>
 
-> ## Tools
+> ## Database
+<p align="center"><img src="https://en.wikipedia.org/wiki/Microsoft_SQL_Server#/media/File:Microsoft_SQL_Server_2025_icon.svg" alt="MSSQL" height="48" style="margin: 4px;" /></p>
+
+> ## Ferramentas
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /></p>
 
 ## 🔗 Connect with Me
