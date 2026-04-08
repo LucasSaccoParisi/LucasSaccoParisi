@@ -12,7 +12,7 @@
 
 ## 🛠️ Línguas e Ferramentas
 
-> ## Programming Languages
+> ## Línguas
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /> <img src="https://www.ingenioempresa.com/wp-content/uploads/2022/09/C-Language-1-927x1024.png" alt="C" width="48" height="48" style="margin: 4px;" /></p>
 
 > ## Frontend
@@ -24,7 +24,7 @@
 > ## Ferramentas
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /></p>
 
-## 🔗 Connect with Me
+## 🔗 Meus Links
 <p align="left"> <a href="https://www.linkedin.com/in/lucas-sacco-parisi-221348356/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Lucas Sacco Parisi's LinkedIn"/></a> <a href="mailto:boxemil2006@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Lucas Sacco Parisi's Email"/></a></p>
 
 <picture>
